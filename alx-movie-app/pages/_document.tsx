@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <link rel="manifest" href="/manifest.json" />
-        <meta name="theme-color" content="#0070f3" />
+        <meta name="theme-color" content="#FFFFFF" />
       </Head>
       <body className="antialiased">
         <Main />
